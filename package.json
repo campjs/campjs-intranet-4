@@ -1,7 +1,7 @@
 {
-  "name": "campjs-intranet",
-  "version": "0.0.0",
-  "description": "Intranet site for CampJS",
+  "name": "campjs-intranet-4",
+  "version": "0.0.1",
+  "description": "Intranet site for CampJS 4",
   "dependencies": {
     "express": "^4.3.0",
     "leg": "^1.1.0",
