@@ -1,0 +1,58 @@
+body {
+  padding: 5px;
+  color: lime;
+  background-image: url('../img/gif/bg.gif');
+}
+
+a {
+  text-decoration: none;
+  color: yellow;
+}
+
+a:visited {
+  color: limegreen;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+code {
+  margin-bottom: 20px;
+}
+
+.schedule {
+  text-align: center;
+}
+
+.schedule > img {
+  width: 300px;
+}
+
+.sponsors li {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.announcements iframe {
+  width: 100%;
+  border-style: none;
+}
+
+.yellowbox {
+    color: yellow;
+    border: 5px double yellow;
+    margin-right: auto;
+    margin-left: auto;
+    width: 390px;
+    padding: 10px;
+}
+
+.yellowbox a {
+    font-size: 200%;
+    text-decoration: underline;
+}
