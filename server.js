@@ -15,6 +15,6 @@ app.use(connect_leg.errorHandler(log));
 
 var server = http.createServer(app);
 
-server.listen(process.env.PORT || 3000, function() {
+server.listen(process.env.PORT || 3001, function() {
   console.log("listening", this.address());
 });
